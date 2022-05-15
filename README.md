@@ -31,7 +31,7 @@ Throughout the game, the user will track the statistics of each player. The Atta
 ### End Of Game Summary
 Once the game has finished, a summary will be displayed for each player and the team to evaluate their performance. Players will be able to see a general summary of their offensive and defensive statistics, providing them with a general overview of some of their weaknesses and strengths throughout the game. A team summary will also be provided to indicate how well the team did as a whole. These informative summaries can be used to provide feedback for players in order to improve in the future. 
 
-![Statistics Summary](/app-demo/Statistics-Summary.gif)
+![Statistics Summary](/demo/Statistics-Summary.gif)
 
 ## Next Steps 
 Although I am very satisfied with this project, there is still much room for improvement in order to make this a useful app for teams. One of the functionalities I failed to achieve was displaying the location of the Attacking and Digging statistics for each player in the summary section. This feature will provide useful insight to players and teams. </br>
