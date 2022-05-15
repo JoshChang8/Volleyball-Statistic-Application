@@ -2,7 +2,7 @@
 A volleyball application to track offensive and defensive statistics of players and the team, supplying analytical feedback to athletes and coaches to achieve success in future matches. Implemented a GUI to enhance user experience, displaying average scores and percentages of each statistic using OOP, Methods, and ArrayList/Array Manipulation.
 
 <!-- <p align="center">
-  <img src="/app-demo/NHL-Logo.png" alt="NHL_logo" width="150" height="150"/>
+  <img src="/demo/VolleyStats-Tiitle.png" alt="VolleyStats" width="150" height="150"/>
 </p> -->
 
 ### Inspiration Behind the App
